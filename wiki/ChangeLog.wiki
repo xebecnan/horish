@@ -1,0 +1,7 @@
+#labels Phase-Implementation,ChangeLog
+#Project's Change Log
+
+= Change Log =
+
+  * 2008-11-14 22:03    Sheng Lunan
+    初始化导入。有简单的舞台管理，基本的精灵动画功能，简单的粒子系统。
